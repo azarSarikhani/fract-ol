@@ -1,4 +1,4 @@
-# fract-ol
+# Fract-ol
 This program takes as it's input the kind of fractol the user wishes to see, either julia or mandelbrot set
 and renders it in a window. The program uses an external library called mini libx for mac to render images,
 pixels, or strings on the window. Julia sets could be drawn using the starting points the user passes as arguments.
@@ -25,10 +25,13 @@ To see julia set give random values, here's an example:
 
  Please not that the external mini libx library is for mac and so it won't work on windows or linux.
 
-#refrancces
+# Refrancces
 To do this project I used many resources to learn about fractals and inspirations for the algorithem, links for which could be found below:
 
 -https://youtu.be/FFftmWSzgmk
+
 -https://www.geogebra.org/m/mfewjrek
+
 -https://github.com/42Paris/minilibx-linux
+
 -http://warp.povusers.org/Mandelbrot/
