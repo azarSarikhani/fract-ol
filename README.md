@@ -30,10 +30,10 @@ To see julia set give random values, here's an example:
 # Refrancces
 To do this project I used many resources to learn about fractals and inspirations for the algorithem, links for which could be found below:
 
--https://youtu.be/FFftmWSzgmk
+- https://youtu.be/FFftmWSzgmk
 
--https://www.geogebra.org/m/mfewjrek
+- https://www.geogebra.org/m/mfewjrek
 
--https://github.com/42Paris/minilibx-linux
+- https://github.com/42Paris/minilibx-linux
 
--http://warp.povusers.org/Mandelbrot/
+- http://warp.povusers.org/Mandelbrot/
