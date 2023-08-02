@@ -1,4 +1,5 @@
 # Fract-ol
+
 This program takes as it's input the kind of fractal the user wishes to see, either julia or mandelbrot set
 and renders it in a window. The program uses an external library called mini libx 
 for mac to render images, pixels, or strings on the window. Julia sets could be drawn using the starting points the
