@@ -28,7 +28,7 @@ To see julia set give random values, here's an example:
 
  Please not that the external mini libx library is for mac and so it won't work on windows or linux.
 
-# Refrancces
+# References
 To do this project I used many resources to learn about fractals and inspirations for the algorithem, links for which could be found below:
 
 - https://youtu.be/FFftmWSzgmk
